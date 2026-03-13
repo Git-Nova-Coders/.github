@@ -14,8 +14,6 @@
   <p>We build across a versatile stack, adapting our tools to fit the engineering challenge at hand.</p>
 </div>
 
-<br>
-
 <div align="center">
   <h4>Frontend & Core Languages</h4>
   <a href="https://skillicons.dev">
@@ -39,24 +37,37 @@
   <code>NumPy</code> • <code>Pandas</code> • <code>Scikit-learn</code> • <code>XGBoost</code> • <code>NLTK</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Streamlit</code>
 </div>
 
-<br>
-
----
-
-## 🛰️ Mission Control: Active Projects
-
-Here is a look at the systems and architectures we are actively developing:
-
-> **🧠 Predictive Analytics | Student Depression Prediction System** > A machine learning-driven web application built with a **Flask backend** and **MySQL database** to analyze and predict student well-being metrics based on complex datasets.
-
-> **⚡ High-Speed Architecture | Real-Time Polling System** > A scalable, real-time voting and polling framework utilizing **Redis** for ultra-fast, in-memory data caching and high-concurrency handling.
-
-> **⚙️ Core Computer Science | The Algorithm Archive** > A collaborative, optimized repository focused on advanced **Design and Analysis of Algorithms (DAA)**, data structures, and competitive programming solutions.
+<br><br>
 
 ---
 
 <div align="center">
-  <h4>🤝 Join the Orbit</h4>
-  <p>Branch off <code>main</code> • Submit a Pull Request • Request a Code Review</p>
+  <h2>🎯 Our Core Domains</h2>
+  <p>Instead of just writing code, we engineer solutions across three main pillars:</p>
+</div>
+
+<br>
+
+> **🧠 Artificial Intelligence & Data Science** <br>
+> Exploring the frontiers of machine learning, from supervised predictive models to complex natural language processing (NLP). We turn raw datasets into actionable intelligence.
+
+> **🌐 Full-Stack Architecture** <br>
+> Architecting scalable applications from the ground up. We build responsive UIs and pair them with high-speed, in-memory databases and robust backend APIs.
+
+> **⚡ Advanced Algorithms & Problem Solving** <br>
+> Honing our logical foundations through Competitive Programming, advanced Data Structures, and complex Algorithm Design.
+
+<br>
+
+---
+
+<div align="center">
+  <h2>🔄 Our Team Workflow</h2>
+  <code>Branch (Feature)</code> ➔ <code>Commit & Push</code> ➔ <code>Open Pull Request</code> ➔ <code>Code Review</code> ➔ <code>Merge to Main</code>
+</div>
+
+<br>
+
+<div align="center">
   <p><i>Made with 💻 and ☕ by the Nova Core Team</i></p>
 </div>
