@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>🚀 Innovating through code. Scaling through collaboration.</h3>
-  <p>We are a student-driven collective of developers and researchers from <b>SRMIST Delhi-NCR</b>. <br>Our core team bridges the gap between complex academic theory and production-ready software.</p>
+  <p>We are a dedicated collective of student developers, engineers, and researchers. <br>Our core team bridges the gap between complex academic theory and production-ready software.</p>
 </div>
 
 <br>
@@ -55,7 +55,7 @@
 > Architecting scalable applications from the ground up. We build responsive UIs and pair them with high-speed, in-memory databases and robust backend APIs.
 
 > **⚡ Advanced Algorithms & Problem Solving** <br>
-> Honing our logical foundations through Competitive Programming, advanced Data Structures, and complex Algorithm Design.
+> Honing our logical foundations through competitive programming, advanced data structures, and complex algorithm design.
 
 <br>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   <h2>🔄 Our Team Workflow</h2>
-  <code>Branch (Feature)</code> ➔ <code>Commit & Push</code> ➔ <code>Open Pull Request</code> ➔ <code>Code Review</code> ➔ <code>Merge to Main</code>
+  <code>Branch (Dev)</code> ➔ <code>Commit & Push</code> ➔ <code>Open Pull Request</code> ➔ <code>Code Review</code> ➔ <code>Merge to Main</code>
 </div>
 
 <br>
